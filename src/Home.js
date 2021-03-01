@@ -31,8 +31,8 @@ OIEXI Video Camera 4K Camcorder Vlog Camera for YouTube, HD Digital Camera with 
             <Product
               id="003"
               title="TORRAS Car Mount Wireless Charger [with QC 3.0 CAR Charger], Qi Fast Wireless Charging Phone Holder Mount Compatible for Samsung Galaxy S21/S20/S10/ Note..."
-              price="45.99 "
-              rating=""
+              price={45.99}
+              rating={5}
               image="https://images-na.ssl-images-amazon.com/images/I/71qrQ4N8OsL._AC_SL1500_.jpg"
             />
           </div>
